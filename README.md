@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github.com/Krishnasony/Krishnasony/blob/main/banner.png" alt=""/></p>
+
 ### Hi there👋! I'm Krishna Sony 🙋‍♂️
 
 ![Profile views](https://gpvc.arturio.dev/Krishnasony)

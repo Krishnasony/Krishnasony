@@ -9,8 +9,8 @@
 - 👨‍💻 Mostly working on ***Android with Kotlin***
 - ❤️Love with jetpack component
 - 🌐 Little bit exploring cross platform app development.
-- Spent time on reading books and watching science fiction,survival and hostoric web series in Netflix.
-
+- 🌈 Spend holiday time on reading books📗 and watching 👀 science fiction, survival and hostorical dramma web series in Netflix.
+- 🎒🚎 Love traveling new places
 <details>
   <summary><b>📊 Github Stats</b></summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krishnasony&count_private=true&show_icons=true&include_all_commits=true" alt="Krishna Sony | Stats" />

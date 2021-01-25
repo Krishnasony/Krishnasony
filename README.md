@@ -29,4 +29,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnasony&layout=compact)
 
+### Tech Stack:
+
+[<img align="left" alt="Krishna Sony | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][website]
+[<img align="left" alt="Krishna Sony | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][website]
+[<img align="left" alt="Krishna Sony | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][website]
+[<img align="left" alt="Krishna Sony | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />][website]
+[<img align="left" alt="Krishna Sony | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
+
+[website]: https://github.com/Krishnasony
+
 

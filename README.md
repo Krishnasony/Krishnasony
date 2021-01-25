@@ -1,15 +1,15 @@
 <p><img align="center" src="https://github.com/Krishnasony/Krishnasony/blob/main/banner.png" alt=""/></p>
 
-### Hi there👋! I'm Krishna Sony 🙋‍♂️
+### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">! I'm Krishna Sony 🙋‍♂️
 
 ![Profile views](https://gpvc.arturio.dev/Krishnasony)
 
 ####  Welcome to my GitHub Page 💻
-- 💻 Currently employed at ****doodleblue Innovattion*** as 📱Android Developer
+- 💻 Currently employed at ***Doodleblue Innovattion*** as 📱Android Developer
 - 👨‍🎓 23 year old Computer Science Engineer.
 - 👨‍💻 ***#SelfTaught*** 📱Android Developer.
 - 👨‍💻 Mostly working on ***Android with Kotlin***
-- ❤️Love with jetpack component
+- ❤️ Love with jetpack component
 - 🌐 Little bit exploring cross platform app development.
 - 🌈 Spend holiday time on reading books📗 and watching 👀 science fiction, survival and hostorical dramma web series in Netflix.
 - 🎒🚎 Love traveling new places

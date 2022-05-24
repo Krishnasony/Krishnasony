@@ -5,13 +5,12 @@
 ![Profile views](https://gpvc.arturio.dev/Krishnasony)
 
 ####  Welcome to my GitHub Page 💻
-- 💻 Currently employed at ***Doodleblue Innovattion*** as 📱Android Developer
-- 👨‍🎓 23 year old Computer Science Engineer.
+- 💻 Currently employed at ***Porter*** as Senior Software Engineer(Android)
 - 👨‍💻 ***#SelfTaught*** 📱Android Developer.
 - 👨‍💻 Mostly working on ***Android with Kotlin***
 - ❤️ Love with jetpack component
 - 🌐 Little bit exploring cross platform app development.
-- 🌈 Spend holiday time on reading books📗 and watching 👀 science fiction, survival and hostorical dramma web series in Netflix.
+- 🌈 Spend holiday time on reading books📗 and watching Netflix.
 - 🎒🚎 Love traveling new places
 <details>
   <summary><b>📊 Github Stats</b></summary>
